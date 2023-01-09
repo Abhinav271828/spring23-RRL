@@ -25,4 +25,4 @@ His move towards westernisation extended to the arts as well – he initiated t
 
 This trend continued after Peter's death as well, propagated both by both the upper classes and his successors.
 
-Peter's reign saw very little fiction, poetry and drama, but oral and manuscript-based literary culture flourished. Non-fiction had a huge uptick, however – military, political and religious treatises were sponsored to a large extent.
+Peter's reign saw very little fiction, poetry and drama, but oral and manuscript-based literary culture flourished. Non-fiction had a huge uptick as well – military, political and religious treatises were sponsored to a large extent.
