@@ -14,9 +14,16 @@ Notes and resources for the Readings in Russian Literature course at IIIT Hydera
         - The Cultural History of Russia
             - The Russian Enlightenment
                 - Peter the Great
+* Week 2
     * Lecture 2 (09 January, Monday)
         - The Cultural History of Russia
             - The Russian Enlightenment (contd.)    
                 - Catherine the Great
             - Defining Basics
             - The Nineteenth Century
+    * Lecture 3 (12 January, Thursday)
+        - The Cultural History of Russia
+            - Romanticism and Realism
+        - The Queen of Spades
+            - Alexander Sergeyevich Pushkin
+            - The Text
