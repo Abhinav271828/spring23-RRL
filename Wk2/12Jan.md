@@ -30,4 +30,5 @@ His first language was French, and he started writing in it at the age of 14. He
 He married Natalya Goncharovna in 1831, after proposing to her a second time. He died as a result of a duel, in response to allegations that his wife was having an affair.
 
 ## The Text
-Pushkin's epigraph positions the book in the realm of the occult from the very beginning – it is uncertain whether it is his own statement or actually quoted from a fortunetelling book.
+### Epigraphs
+Pushkin's epigraph at the beginning of the boox positions it in the realm of the occult from the very beginning – it is uncertain whether it is his own statement or actually quoted from a fortunetelling book.

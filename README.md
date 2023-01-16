@@ -27,3 +27,10 @@ Notes and resources for the Readings in Russian Literature course at IIIT Hydera
         - The Queen of Spades
             - Alexander Sergeyevich Pushkin
             - The Text
+                - Epigraphs
+* Week 3
+    * Lecture 4 (16 January, Monday)
+        - The Queen of Spades
+            - The Text
+                - Epigraphs (contd.)
+                - The Story within the Story
