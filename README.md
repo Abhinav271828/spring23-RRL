@@ -34,3 +34,11 @@ Notes and resources for the Readings in Russian Literature course at IIIT Hydera
             - The Text
                 - Epigraphs (contd.)
                 - The Story within the Story
+    * Lecture 5 (19 January, Thursday)
+        - The Queen of Spades (contd.)
+* Week 4
+    * Lecture 6 (23 January, Monday)
+        - The Dream: A Letter
+            - Zinaida Alexandrovna Volkonskaya
+            - Classical References
+            - The Figure
