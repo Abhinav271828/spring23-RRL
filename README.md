@@ -3,6 +3,7 @@ Notes and resources for the Readings in Russian Literature course at IIIT Hydera
 
 # Weightages
 * Quizzes – 2 $\times$ 7.5
+    * Quiz 1: 2 $\times$ (7.5 = 400 words)
 * Assignments – 2 $\times$ 7.5
 * Midsem – 30
 * Project – 40
@@ -42,3 +43,10 @@ Notes and resources for the Readings in Russian Literature course at IIIT Hydera
             - Zinaida Alexandrovna Volkonskaya
             - Classical References
             - The Figure
+* Week 5
+    * Lecture 7 (30 January, Monday)
+        - The Dream: A Letter
+            - The Figure (contd.)
+        - Asheek-Kerib
+            - Mikhail Yuryevich Lermontov
+            - Folktales and Fairytales
