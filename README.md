@@ -50,3 +50,7 @@ Notes and resources for the Readings in Russian Literature course at IIIT Hydera
         - Asheek-Kerib
             - Mikhail Yuryevich Lermontov
             - Folktales and Fairytales
+* Week 6
+    * Lecture 8 (06 February, Monday)
+        - Asheek-Kerib
+            - Folktales and Fairytales (contd.)
