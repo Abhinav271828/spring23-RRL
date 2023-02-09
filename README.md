@@ -54,3 +54,9 @@ Notes and resources for the Readings in Russian Literature course at IIIT Hydera
     * Lecture 8 (06 February, Monday)
         - Asheek-Kerib
             - Folktales and Fairytales (contd.)
+    * Lecture 9 (09 February, Thursday)
+        - Asheek-Kerib (contd.)
+            - The Wandering Hero
+        - The Nose
+            - Resistance in the Ukraine
+            - Nikolai Vasilyevich Gogol
