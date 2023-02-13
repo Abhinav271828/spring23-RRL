@@ -60,3 +60,7 @@ Notes and resources for the Readings in Russian Literature course at IIIT Hydera
         - The Nose
             - Resistance in the Ukraine
             - Nikolai Vasilyevich Gogol
+* Week 7
+    * Lecture 10 (13 February, Monday)
+        - The Nose
+            - Nikolai Vasilyevich Gogol (contd.)
