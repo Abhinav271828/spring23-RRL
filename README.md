@@ -64,5 +64,14 @@ Notes and resources for the Readings in Russian Literature course at IIIT Hydera
     * Lecture 10 (13 February, Monday)
         - The Nose
             - Nikolai Vasilyevich Gogol (contd.)
+            - Interpretation
+            - The Text
     * Lecture 11 (16 February, Thursday)
         - Arts
+* Week 8
+    * Lecture 12 (20 February, Monday)
+        - The Nose (contd.)
+            - The Narrator's Inclusion of Self
+        - The Office
+            - Ivan Sergeyevich Turgenev
+            - Features of Realism
