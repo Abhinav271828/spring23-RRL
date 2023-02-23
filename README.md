@@ -75,3 +75,12 @@ Notes and resources for the Readings in Russian Literature course at IIIT Hydera
         - The Office
             - Ivan Sergeyevich Turgenev
             - Features of Realism
+    * Lecture 13 (23 February, Thursday)
+        - The Office
+            - Features of Realism (contd.)
+            - The Office
+            - Rhetorical Strategies of Negotiation
+            - Intertextuality, Ekphrasis, Allusion
+            - Teatime
+            - Levels of Narrative
+            - The Narrator
