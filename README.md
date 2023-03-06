@@ -84,3 +84,12 @@ Notes and resources for the Readings in Russian Literature course at IIIT Hydera
             - Teatime
             - Levels of Narrative
             - The Narrator
+* Week 9
+    * Lecture 14 (06 March, Monday)
+        - The Office (contd.)
+            - Precise Observation
+            - Social Hierarchy
+        - At the Tea-Table
+            - Karolina Karlovna Pavlova
+            - Epigraph 1
+            - Epigraph 2
