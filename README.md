@@ -93,3 +93,12 @@ Notes and resources for the Readings in Russian Literature course at IIIT Hydera
             - Karolina Karlovna Pavlova
             - Epigraph 1
             - Epigraph 2
+* Week 11
+    * Lecture 15 (20 March, Monday)
+        - At the Tea-Table
+            - Epigraph 2 (contd.)
+            - Positions in the Debate
+            - Polyphony and Polysemy
+            - Salon Culture
+            - Commentary on Art
+            - Aleksei Petrovich as a Narrator
