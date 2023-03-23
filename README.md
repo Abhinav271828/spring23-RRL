@@ -102,3 +102,7 @@ Notes and resources for the Readings in Russian Literature course at IIIT Hydera
             - Salon Culture
             - Commentary on Art
             - Aleksei Petrovich as a Narrator
+    * Lecture 16 (23 March, Thursday)
+        - A Spark Neglected Burns the House
+            - Lev Nikolayevich Tolstoi
+            - The Story
