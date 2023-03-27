@@ -33,3 +33,5 @@ It follows a theme that was considered suitable for the common people at the tim
 * a re-invention of *Exemplum* – a story told as part of a sermon to make a point about a doctrine
 * a morality-tale – a medieval play in which characters represent certain attributes and a protagonist is driven to temptation and then redeemed
 * a parable – a simple story that illustrates a moral or spiritual lesson
+
+A parable differs from a morality-tale and an Exemplum in one important way – it must be a story involving, or narrated by, Christ.

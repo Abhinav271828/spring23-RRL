@@ -106,3 +106,9 @@ Notes and resources for the Readings in Russian Literature course at IIIT Hydera
         - A Spark Neglected Burns the House
             - Lev Nikolayevich Tolstoi
             - The Story
+* Week 12
+    * Lecture 17 (27 March, Monday)
+        - A Spark Neglected Burns the House
+            - Non-Realistic Features
+            - "Love Thy Neighbours"
+            - Forebodings
