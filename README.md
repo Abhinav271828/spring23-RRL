@@ -112,3 +112,5 @@ Notes and resources for the Readings in Russian Literature course at IIIT Hydera
             - Non-Realistic Features
             - "Love Thy Neighbours"
             - Forebodings
+    * Lecture 18 (30 March, Thursday)
+        - Signposting
