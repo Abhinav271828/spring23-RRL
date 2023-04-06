@@ -114,3 +114,9 @@ Notes and resources for the Readings in Russian Literature course at IIIT Hydera
             - Forebodings
     * Lecture 18 (30 March, Thursday)
         - Signposting
+* Week 13
+    * Lecture 19 (06 April, Thursday)
+        - The Ethics of Telling a Story
+            - Background
+            - Sofya Pavlovna Soboleva
+            - The Text
