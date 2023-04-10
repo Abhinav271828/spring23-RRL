@@ -117,6 +117,12 @@ Notes and resources for the Readings in Russian Literature course at IIIT Hydera
 * Week 13
     * Lecture 19 (06 April, Thursday)
         - The Ethics of Telling a Story
+        - Pros and Cons – The Thoughts and Dreams of Madame Court Counsellor Lisitsyna
             - Background
             - Sofya Pavlovna Soboleva
             - The Text
+* Week 14
+    * Lecture 20 (10 April, Monday)
+        - Pros and Cons – The Thoughts and Dreams of Madame Court Counsellor Lisitsyna (contd.)
+            - Social Critique
+            - Soboleva's Ideology
