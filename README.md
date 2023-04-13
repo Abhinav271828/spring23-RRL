@@ -126,3 +126,11 @@ Notes and resources for the Readings in Russian Literature course at IIIT Hydera
         - Pros and Cons – The Thoughts and Dreams of Madame Court Counsellor Lisitsyna (contd.)
             - Social Critique
             - Soboleva's Ideology
+    * Lecture 21 (13 April, Thursday)
+        - Pros and Cons – The Thoughts and Dreams of Madame Court Counsellor Lisitsyna (contd.)
+            - Lyubinka's Decision
+            - The End and Autobiography
+            - What Do We Learn?
+        - The Crocodile
+            - Fyodor Mikhailovich Dostoyevsky
+            - The Literary Prank
