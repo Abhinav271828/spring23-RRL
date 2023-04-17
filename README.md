@@ -134,3 +134,10 @@ Notes and resources for the Readings in Russian Literature course at IIIT Hydera
         - The Crocodile
             - Fyodor Mikhailovich Dostoyevsky
             - The Literary Prank
+* Week 15
+    * Lecture 22 (17 April, Monday)
+        - The Crocodile (contd.)
+            - The St. Petersburg Arcade
+            - The Epigraph
+            - The First Description of the Crocodile
+            - The Target of Dostoyevsky's Satire
