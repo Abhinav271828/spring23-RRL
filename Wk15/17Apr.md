@@ -2,7 +2,7 @@
 title: Readings in Russian Literature – The Nineteenth Century
 subtitle: |
           | Spring 2023, IIIT Hyderabad
-          | 17 April, Monday (Lecture 21)
+          | 17 April, Monday (Lecture 22)
 author: Taught by Prof. Nazia Akhtar
 header-includes:
 - \newfontfamily\devanagarifont{KohinoorDevanagari-Regular}

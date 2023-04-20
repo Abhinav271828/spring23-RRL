@@ -141,3 +141,7 @@ Notes and resources for the Readings in Russian Literature course at IIIT Hydera
             - The Epigraph
             - The First Description of the Crocodile
             - The Target of Dostoyevsky's Satire
+    * Lecture 23 (20 April, Thursday)
+        - The Crocodile
+            - The Target of Dostoyevsky's Satire (contd.)
+        - Anton Pavlovich Chekhov
