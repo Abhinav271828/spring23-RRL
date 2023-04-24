@@ -145,3 +145,11 @@ Notes and resources for the Readings in Russian Literature course at IIIT Hydera
         - The Crocodile
             - The Target of Dostoyevsky's Satire (contd.)
         - Anton Pavlovich Chekhov
+* Week 16
+    * Lecture 24 (24 April, Monday)
+        - Anton Pavlovich Chekhov (contd.)
+            - The Lady with a Little Dog
+                - The Passage of Time
+                - Mundaneness of Life
+                - The End
+            - Death of a Clerk
